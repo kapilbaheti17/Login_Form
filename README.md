@@ -22,9 +22,9 @@ With Remember Me Selection the page is:
 
 ![Cookie Set](/img/Four.JPG?raw=true "Remember Me")
 
-Without Remeber Me
+Without Remeber Me:
 
-![No Cookie Set](/img/Three.JPG?raw=true "Without Remember Me")
+![No Cookie Set](/img/Three.jpg?raw=true "Without Remember Me")
 
 If the details entered by the user is invalid then the error message is displayed:
 
